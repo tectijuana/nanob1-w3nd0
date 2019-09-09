@@ -1,28 +1,19 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+![](https://img.vixdata.io/pd/webp-large/es/sites/default/files/e/estrellas-espacio-nebulosa.jpg)
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+#DEFINICION DE LENGUAJE
+Un lenguaje de programación es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos. A todo este conjunto de órdenes y datos escritos mediante un lenguaje de programación se le conoce como programa.
+![](https://i.kinja-img.com/gawker-media/image/upload/s--naVUO4ZN--/c_scale,f_auto,fl_progressive,q_80,w_800/xjkuiypdh6ictzjokyzt.jpg)
 
-Plantilla generica de todo repositorio.
+#DEFINICION DE ALGORITMO
+Un algoritmo es una secuencia de instrucciones secuenciales, gracias al cual pueden llevarse a cabo ciertos procesos y darse respuesta a determinadas necesidades o decisiones. Se trata de conjuntos ordenados y finitos de pasos, que nos permiten resolver un problema o tomar una decisión.
+![](https://concepto.de/wp-content/uploads/2018/04/algoritmo-min-e1523301106897.jpg)
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+#DEFINICION DE ALGORITMOS COTIDIANOS
+La serie de pasos que realizamos en nuestra vida diaria para realizar las diferentes tareas y actividades comunes, desde los pasos al levantarnos, así como ir de compras, etc.
+![](https://4.bp.blogspot.com/-1SlopKO9Qa4/VucMRRgG-YI/AAAAAAAAAAg/KNlYIydk7PMQkkAaKH2n4sSearxYm-pgQ/s640/images.png)
 
-----
-
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
-
-----
-
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
+#DEFINICION DE LENGUAJES ALGORITMICOS
+Para definir el lenguaje algorítmico:
+Cabe recordar que el conjunto de todas las operaciones a realizar, y el orden en el que deben efectuarse, se le denomina algoritmo.
+Así que el lenguaje algorítmico es aquel por medio del cual se realiza un análisis previo del problema a resolver y encontrar un método que permita resolverlo.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcmoFz3HzpTkhIlmhck4Po0eDMhFgUdX3bFmv8U_Xvgcso8ZfV)
